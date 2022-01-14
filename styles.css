@@ -121,7 +121,7 @@ input[type="button"]:focus {
   color: #333;
   border-color: #888;
   outline: 0; }
-.button.button-primary,
+   /* .button.button-primary,
 button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
@@ -141,4 +141,4 @@ input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
   background-color: #1EAEDB;
-  border-color: #1EAEDB; }
+  border-color: #1EAEDB; } */
